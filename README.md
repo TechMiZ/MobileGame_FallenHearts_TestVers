@@ -5,10 +5,10 @@
 A mini mobile game for friends. <br>
 手机小游戏，一颗心赠与有缘人。 <br>
 
-本游戏没有明确目标、没有升级打怪，只有一个目的——就是探索一个答案：拥有双重力量的你，愿意拿什么来拯救世界、拯救一颗伤透的心？ <br>
+本游戏没有明确目标、没有升级打怪，只有一个目的——就是探索一个答案：每个人都拥有双重力量，你愿意拿什么来拯救世界、拯救一颗伤透的心？ <br>
 
-### 介绍页面：
-https://maxmitech.com/my-game-fallen-hearts-test-ver/
+### 游戏介绍：
+* https://maxmitech.com/my-game-fallen-hearts-test-ver/
 
 
 ### Download and install 下载安装:  <br>
